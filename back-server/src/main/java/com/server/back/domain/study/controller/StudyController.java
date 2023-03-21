@@ -21,7 +21,6 @@ import java.util.Map;
 public class StudyController {
     private final StudyService studyService;
     private final UserService userService;
-    private final StudyTimeRepository studyTimeRepository;
 
     @ApiOperation(value = "단어학습 문제")
     @GetMapping("/word/{userId}")

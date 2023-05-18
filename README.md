@@ -3,6 +3,7 @@
 - 🔔 본 프로젝트는 '삼성 청년 SW 아카데미 8기' 2학기 특화 프로젝트 결과물입니다
 - https://acidic-fontina-5fc.notion.site/552245e9ef6a4f2ea0484a252e9dc266
 [![RepomonRepoCard](https://repomon.kr/card/repo?repoId=27)](https://repomon.kr/repo/27)
+[![RepomonRepoPersonalCard](https://repomon.kr/card/repo_personal?repoId=27&userId=5)](https://repomon.kr/repo/27)
 ## 목차
 
 - [개요](#개요)
